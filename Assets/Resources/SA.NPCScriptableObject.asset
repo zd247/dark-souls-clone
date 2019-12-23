@@ -1,0 +1,98 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bde27ec61e7e41e429b557c6dc833237, type: 3}
+  m_Name: SA.NPCScriptableObject
+  m_EditorClassIdentifier: 
+  npcs:
+  - npc_id: npc1
+    dialogue:
+    - dialogueText:
+      - smoke sum weed?
+      increaseIndex: 1
+    - dialogueText:
+      - purple haze
+      - pineapple express
+      - bc buds
+      increaseIndex: 1
+    - dialogueText:
+      - kush
+      - kush kush
+      - kush kush kush
+      increaseIndex: 0
+  - npc_id: npc2
+    dialogue:
+    - dialogueText:
+      - whats up...
+      increaseIndex: 1
+    - dialogueText:
+      - hmmmm.....
+      - '....whats your problem?...'
+      - '...there''s no going back from here...'
+      - '...i''m afraid you gotta keep moving forward...'
+      - '...be aware tho...'
+      increaseIndex: 1
+    - dialogueText:
+      - ',,,good luck homie'
+      increaseIndex: 0
+  - npc_id: npc5
+    dialogue:
+    - dialogueText:
+      - Hello...
+      - '...I am your guide...'
+      - '...press space to end this dialogue...'
+      - '...and space again to open a new one...'
+      increaseIndex: 1
+    - dialogueText:
+      - Press ESC button to access the Pause Menu...
+      - '...check out the "CONTROLS" option...'
+      - '...after this dialogue, there''s one more....'
+      increaseIndex: 1
+    - dialogueText:
+      - There's another guy outside this camp....
+      - '...go to him....'
+      - '...Good luck my friend !'
+      increaseIndex: 0
+  - npc_id: npc3
+    dialogue:
+    - dialogueText:
+      - hmmmmmmmmmm.....
+      - '...Lost?...'
+      increaseIndex: 1
+    - dialogueText:
+      - Go to the otherside then...
+      - '...you won''t find anything here...'
+      increaseIndex: 1
+    - dialogueText:
+      - Forgot to mention...
+      - '...to cross to the otherside...'
+      - '...you need to summon the bridge ...'
+      - '...by pointing at the magic lamp post near there...'
+      increaseIndex: 0
+  - npc_id: npc4
+    dialogue:
+    - dialogueText:
+      - whats up?...
+      - '...you wanna get back home...'
+      - '...go through that backdoor and enter magic cave...'
+      increaseIndex: 1
+    - dialogueText:
+      - oh...
+      - there's weapons and stuffs you can loot in these two houses...
+      increaseIndex: 1
+    - dialogueText:
+      - there are two guards outside the backdoor...
+      - '...you can backstab your way out of here...'
+      - '...by standing close and behind to one and press attack...'
+      - '...or you can choose to fight them...'
+      increaseIndex: 1
+    - dialogueText:
+      - your call homie
+      increaseIndex: 0

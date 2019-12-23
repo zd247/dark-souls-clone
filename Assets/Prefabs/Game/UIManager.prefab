@@ -1,0 +1,119 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1426521318541572}
+  m_IsPrefabParent: 1
+--- !u!1 &1426521318541572
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4111990433733204}
+  - component: {fileID: 114439385212447834}
+  - component: {fileID: 114994283216129782}
+  - component: {fileID: 114975021576349416}
+  m_Layer: 0
+  m_Name: UIManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4111990433733204
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1426521318541572}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 869.56525, y: 324.39963, z: 25.277203}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114439385212447834
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1426521318541572}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b5f0c0782855cd74b90237b89a191858, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  slots:
+  - icon: {fileID: 0}
+    type: 0
+  - icon: {fileID: 0}
+    type: 1
+  - icon: {fileID: 0}
+    type: 2
+  - icon: {fileID: 0}
+    type: 3
+--- !u!114 &114975021576349416
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1426521318541572}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a71d9c6cc18322b4e9fd277f9d29e593, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  dialogueText: {fileID: 0}
+  textObj: {fileID: 0}
+  dialogueActive: 0
+  playerObject: {fileID: 0}
+  npcStates:
+  - npc_id: npc1
+    dialogueIndex: 0
+  - npc_id: npc2
+    dialogueIndex: 0
+  - npc_id: npc3
+    dialogueIndex: 0
+  - npc_id: npc4
+    dialogueIndex: 0
+  - npc_id: npc5
+    dialogueIndex: 0
+--- !u!114 &114994283216129782
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1426521318541572}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc606dc9ac352734ea8a9583bb42140a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  lerpSpeed: 1
+  health: {fileID: 0}
+  h_vis: {fileID: 0}
+  focus: {fileID: 0}
+  f_vis: {fileID: 0}
+  stamina: {fileID: 0}
+  s_vis: {fileID: 0}
+  souls: {fileID: 0}
+  itemCount: {fileID: 0}
+  sizeMultiplier: 3
+  interactCard: {fileID: 0}
+  ac_action_type: {fileID: 0}
+  announceCard:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}

@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e34243529d8128c4f864e0919872c323, type: 3}
+  m_Name: SA.AudioScriptableObject
+  m_EditorClassIdentifier: 
+  audio_list:
+  - id: slash_1
+    audio_clip: {fileID: 8300000, guid: 3c3a77d137d90354a86079b31148b093, type: 3}
+  - id: slash_2
+    audio_clip: {fileID: 8300000, guid: 4d94e969fe8a19a40ab13c8f149174e1, type: 3}
+  - id: slash_impact
+    audio_clip: {fileID: 8300000, guid: 329206ba32e3132459d82fe59791082d, type: 3}
+  - id: setup
+    audio_clip: {fileID: 8300000, guid: dd60d6772971c984ba4a869eb5de41fc, type: 3}
+  - id: hurt
+    audio_clip: {fileID: 8300000, guid: cd30ec306389a324097359c6e76d96e4, type: 3}
+  - id: slash_3
+    audio_clip: {fileID: 8300000, guid: c79fd52ef702ec249bc7b55a27186402, type: 3}
+  - id: shield_impact
+    audio_clip: {fileID: 8300000, guid: c85e782d6e4f8e64dac32c2ccf5616bd, type: 3}
+  - id: die
+    audio_clip: {fileID: 8300000, guid: c055141a62c641144ba89462b346698e, type: 3}
+  - id: bestus
+    audio_clip: {fileID: 8300000, guid: b27526eef9ac9b74e90eddd1469b5fb1, type: 3}
+  - id: souls
+    audio_clip: {fileID: 8300000, guid: 50424781000373d4d982f6559316a076, type: 3}
+  - id: damage_3
+    audio_clip: {fileID: 8300000, guid: e11c97b92912606499a69f8102a3e57b, type: 3}
+  - id: hello
+    audio_clip: {fileID: 8300000, guid: f128bd551a6e9a3468dc0fe23deeb5a9, type: 3}
+  - id: interact
+    audio_clip: {fileID: 8300000, guid: a3e1187e17082204e9095d5989ae528f, type: 3}
+  - id: character_die
+    audio_clip: {fileID: 8300000, guid: d621c22400d4e404e987772b130b7b6e, type: 3}

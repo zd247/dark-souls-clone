@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1469609308e462e41b6fddd9d0fca8e4, type: 3}
+  m_Name: SA.ConsumablesScriptableObject
+  m_EditorClassIdentifier: 
+  consumables:
+  - itemName: bestus
+    itemDescription: 
+    icon: {fileID: 21300000, guid: 80fc4d4e2906e6a47a01a0fa0b6dc768, type: 3}
+    consumableEffect: bestus
+    audio_id: bestus
+    targetAnim: bestus
+    itemType: 1
+    itemPrefab: {fileID: 1356150122605066, guid: 445aa8c0b27b66748969c141fa81e298,
+      type: 2}
+    r_model_pos: {x: 0, y: 0, z: -0}
+    r_model_eulers: {x: 12.164822, y: 5.612485, z: 354.11694}
+    model_scale: {x: 1.04, y: 1.04, z: 1.04}
+  - itemName: focus
+    itemDescription: 
+    icon: {fileID: 21300000, guid: 9331d0d69ff38ac4ca0ca5c5cc2ae2d8, type: 3}
+    consumableEffect: focus
+    audio_id: bestus
+    targetAnim: bestus
+    itemType: 1
+    itemPrefab: {fileID: 1677230087016482, guid: 57a8e5acc7376154686e3b095dd58469,
+      type: 2}
+    r_model_pos: {x: 0, y: 0, z: -0}
+    r_model_eulers: {x: 12.164822, y: 5.612485, z: 354.11694}
+    model_scale: {x: 1.04, y: 1.04, z: 1.04}
+  - itemName: souls
+    itemDescription: 
+    icon: {fileID: 21300000, guid: 13e51ecd4b316403fb652982430e8de9, type: 3}
+    consumableEffect: souls
+    audio_id: souls
+    targetAnim: use_item
+    itemType: 1
+    itemPrefab: {fileID: 0}
+    r_model_pos: {x: 0, y: 0, z: 0}
+    r_model_eulers: {x: 0, y: 0, z: 0}
+    model_scale: {x: 0, y: 0, z: 0}

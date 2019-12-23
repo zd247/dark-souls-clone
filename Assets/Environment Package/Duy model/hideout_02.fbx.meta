@@ -1,0 +1,397 @@
+fileFormatVersion: 2
+guid: d90fffbc0cb9792449cd79f8a1599637
+timeCreated: 1523257337
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: base
+    100002: floor_base
+    100004: group1
+    100006: group2
+    100008: group3
+    100010: //RootNode
+    100012: house_base
+    100014: inside
+    100016: outside
+    100018: pCube10
+    100020: pCube11
+    100022: pCube13
+    100024: pCube14
+    100026: pCube15
+    100028: pCube16
+    100030: pCube17
+    100032: pCube19
+    100034: pCube20
+    100036: pCube21
+    100038: pCube22
+    100040: pCube26
+    100042: pCube27
+    100044: pCube28
+    100046: pCube29
+    100048: pCube3
+    100050: pCube30
+    100052: pCube31
+    100054: pCube32
+    100056: pCube33
+    100058: pCube34
+    100060: pCube35
+    100062: pCube36
+    100064: pCube37
+    100066: pCube38
+    100068: pCube39
+    100070: pCube4
+    100072: pCube41
+    100074: pCube41 1
+    100076: pCube42
+    100078: pCube42 1
+    100080: pCube43
+    100082: pCube43 1
+    100084: pCube44
+    100086: pCube44 1
+    100088: pCube45
+    100090: pCube45 1
+    100092: pCube46
+    100094: pCube46 1
+    100096: pCube47
+    100098: pCube47 1
+    100100: pCube5
+    100102: pCube6
+    100104: pCube7
+    100106: pCube8
+    100108: pCube9
+    100110: pillars
+    100112: pillars 1
+    100114: roof
+    100116: roof 1
+    100118: stairs
+    100120: steps
+    100122: steps1
+    100124: steps2
+    100126: steps3
+    100128: steps4
+    100130: wall
+    400000: base
+    400002: floor_base
+    400004: group1
+    400006: group2
+    400008: group3
+    400010: //RootNode
+    400012: house_base
+    400014: inside
+    400016: outside
+    400018: pCube10
+    400020: pCube11
+    400022: pCube13
+    400024: pCube14
+    400026: pCube15
+    400028: pCube16
+    400030: pCube17
+    400032: pCube19
+    400034: pCube20
+    400036: pCube21
+    400038: pCube22
+    400040: pCube26
+    400042: pCube27
+    400044: pCube28
+    400046: pCube29
+    400048: pCube3
+    400050: pCube30
+    400052: pCube31
+    400054: pCube32
+    400056: pCube33
+    400058: pCube34
+    400060: pCube35
+    400062: pCube36
+    400064: pCube37
+    400066: pCube38
+    400068: pCube39
+    400070: pCube4
+    400072: pCube41
+    400074: pCube41 1
+    400076: pCube42
+    400078: pCube42 1
+    400080: pCube43
+    400082: pCube43 1
+    400084: pCube44
+    400086: pCube44 1
+    400088: pCube45
+    400090: pCube45 1
+    400092: pCube46
+    400094: pCube46 1
+    400096: pCube47
+    400098: pCube47 1
+    400100: pCube5
+    400102: pCube6
+    400104: pCube7
+    400106: pCube8
+    400108: pCube9
+    400110: pillars
+    400112: pillars 1
+    400114: roof
+    400116: roof 1
+    400118: stairs
+    400120: steps
+    400122: steps1
+    400124: steps2
+    400126: steps3
+    400128: steps4
+    400130: wall
+    2100000: wall1
+    2100002: blinn8
+    2100004: wood
+    2100006: pillar
+    2100008: roofs
+    2100010: stone1
+    2100012: stone
+    2300000: base
+    2300002: floor_base
+    2300004: house_base
+    2300006: pCube10
+    2300008: pCube11
+    2300010: pCube13
+    2300012: pCube14
+    2300014: pCube15
+    2300016: pCube16
+    2300018: pCube17
+    2300020: pCube19
+    2300022: pCube20
+    2300024: pCube21
+    2300026: pCube22
+    2300028: pCube26
+    2300030: pCube27
+    2300032: pCube28
+    2300034: pCube29
+    2300036: pCube3
+    2300038: pCube30
+    2300040: pCube31
+    2300042: pCube32
+    2300044: pCube33
+    2300046: pCube34
+    2300048: pCube35
+    2300050: pCube36
+    2300052: pCube37
+    2300054: pCube38
+    2300056: pCube39
+    2300058: pCube4
+    2300060: pCube41
+    2300062: pCube41 1
+    2300064: pCube42
+    2300066: pCube42 1
+    2300068: pCube43
+    2300070: pCube43 1
+    2300072: pCube44
+    2300074: pCube44 1
+    2300076: pCube45
+    2300078: pCube45 1
+    2300080: pCube46
+    2300082: pCube46 1
+    2300084: pCube47
+    2300086: pCube47 1
+    2300088: pCube5
+    2300090: pCube6
+    2300092: pCube7
+    2300094: pCube8
+    2300096: pCube9
+    2300098: roof
+    2300100: roof 1
+    2300102: steps
+    2300104: steps1
+    2300106: steps2
+    2300108: steps3
+    2300110: steps4
+    2300112: wall
+    3300000: base
+    3300002: floor_base
+    3300004: house_base
+    3300006: pCube10
+    3300008: pCube11
+    3300010: pCube13
+    3300012: pCube14
+    3300014: pCube15
+    3300016: pCube16
+    3300018: pCube17
+    3300020: pCube19
+    3300022: pCube20
+    3300024: pCube21
+    3300026: pCube22
+    3300028: pCube26
+    3300030: pCube27
+    3300032: pCube28
+    3300034: pCube29
+    3300036: pCube3
+    3300038: pCube30
+    3300040: pCube31
+    3300042: pCube32
+    3300044: pCube33
+    3300046: pCube34
+    3300048: pCube35
+    3300050: pCube36
+    3300052: pCube37
+    3300054: pCube38
+    3300056: pCube39
+    3300058: pCube4
+    3300060: pCube41
+    3300062: pCube41 1
+    3300064: pCube42
+    3300066: pCube42 1
+    3300068: pCube43
+    3300070: pCube43 1
+    3300072: pCube44
+    3300074: pCube44 1
+    3300076: pCube45
+    3300078: pCube45 1
+    3300080: pCube46
+    3300082: pCube46 1
+    3300084: pCube47
+    3300086: pCube47 1
+    3300088: pCube5
+    3300090: pCube6
+    3300092: pCube7
+    3300094: pCube8
+    3300096: pCube9
+    3300098: roof
+    3300100: roof 1
+    3300102: steps
+    3300104: steps1
+    3300106: steps2
+    3300108: steps3
+    3300110: steps4
+    3300112: wall
+    4300000: wall
+    4300002: roof
+    4300004: floor_base
+    4300006: pCube26
+    4300008: pCube27
+    4300010: pCube28
+    4300012: pCube29
+    4300014: pCube30
+    4300016: pCube31
+    4300018: pCube32
+    4300020: pCube33
+    4300022: pCube34
+    4300024: roof
+    4300026: house_base
+    4300028: pCube3
+    4300030: pCube4
+    4300032: pCube5
+    4300034: pCube6
+    4300036: pCube7
+    4300038: pCube8
+    4300040: pCube9
+    4300042: pCube10
+    4300044: pCube11
+    4300046: pCube13
+    4300048: pCube14
+    4300050: pCube15
+    4300052: pCube16
+    4300054: pCube17
+    4300056: pCube19
+    4300058: pCube20
+    4300060: pCube21
+    4300062: pCube22
+    4300064: base
+    4300066: steps
+    4300068: steps1
+    4300070: steps2
+    4300072: steps3
+    4300074: steps4
+    4300076: pCube41
+    4300078: pCube42
+    4300080: pCube43
+    4300082: pCube44
+    4300084: pCube45
+    4300086: pCube46
+    4300088: pCube47
+    4300090: pCube35
+    4300092: pCube36
+    4300094: pCube37
+    4300096: pCube38
+    4300098: pCube41
+    4300100: pCube42
+    4300102: pCube43
+    4300104: pCube44
+    4300106: pCube45
+    4300108: pCube46
+    4300110: pCube47
+    4300112: pCube39
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

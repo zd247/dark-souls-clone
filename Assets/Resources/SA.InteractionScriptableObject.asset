@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ec9e90393aee0f4ea7c7849bd98682d, type: 3}
+  m_Name: SA.InteractionScriptableObject
+  m_EditorClassIdentifier: 
+  interactions:
+  - interactionId: pickup
+    anim: pick_up
+    oneShot: 0
+    specialEvent: 
+  - interactionId: open
+    anim: point down
+    oneShot: 1
+    specialEvent: 
+  - interactionId: interact
+    anim: point forward
+    oneShot: 1
+    specialEvent: 
+  - interactionId: npc1
+    anim: hello
+    oneShot: 0
+    specialEvent: npc1_a

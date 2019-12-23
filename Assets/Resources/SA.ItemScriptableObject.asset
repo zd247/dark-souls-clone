@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f2ee3ad7ebe989e4f98d9d5433667d9e, type: 3}
+  m_Name: SA.ItemScriptableObject
+  m_EditorClassIdentifier: 
+  items:
+  - itemName: falchion
+    itemDescription: 
+    icon: {fileID: 21300000, guid: 28911431d86be334cab8da6350fbe77e, type: 3}
+  - itemName: shield
+    itemDescription: 
+    icon: {fileID: 21300000, guid: b0c2ff3b50468fc48b55fbf7b0eb9881, type: 3}
+  - itemName: gladius
+    itemDescription: 
+    icon: {fileID: 21300000, guid: d96bc7ac298008041a5f14eae90673c4, type: 3}
+  - itemName: great_sword
+    itemDescription: 
+    icon: {fileID: 21300000, guid: d38f67f52ae01d5408f53be6351818eb, type: 3}
+  - itemName: rapier
+    itemDescription: 
+    icon: {fileID: 21300000, guid: c43a1bc466f976043bc8c8533155582f, type: 3}
+  - itemName: pyromancy
+    itemDescription: 
+    icon: {fileID: 21300000, guid: 925decacf4e9c40e5b28d8e9cb948287, type: 3}
+  - itemName: fireball
+    itemDescription: 
+    icon: {fileID: 21300000, guid: ca022bba8a9a54d039120a75eec8a0c6, type: 3}
+  - itemName: firebreath
+    itemDescription: 
+    icon: {fileID: 21300000, guid: f8038c7ee9f2e4253bcfa3808fb29537, type: 3}
+  - itemName: darkshield
+    itemDescription: 
+    icon: {fileID: 21300000, guid: 5687ab57759613c4190988588e8d3f2f, type: 3}
+  - itemName: bestus
+    itemDescription: 
+    icon: {fileID: 21300000, guid: 80fc4d4e2906e6a47a01a0fa0b6dc768, type: 3}
+  - itemName: focus
+    itemDescription: 
+    icon: {fileID: 21300000, guid: 9331d0d69ff38ac4ca0ca5c5cc2ae2d8, type: 3}
+  - itemName: souls
+    itemDescription: 
+    icon: {fileID: 21300000, guid: 13e51ecd4b316403fb652982430e8de9, type: 3}
