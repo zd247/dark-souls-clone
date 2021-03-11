@@ -1,4 +1,4 @@
-# psychedia-souls
+# This is my game, made by Unity
 3rd Person Action, taken inspiration from Dark Souls
 # Gameplay trailer:
 https://drive.google.com/file/d/1H3FoEYLTuuca4tfXbIZ9K52H4KGMYET3/view
