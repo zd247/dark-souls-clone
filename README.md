@@ -10,6 +10,3 @@
 
 ### [Download full game here](https://drive.google.com/open?id=1P_eaV7EWGv8VVPE_yr5Lg29kNWGhKpJB):
 ### [Personal notes](https://drive.google.com/open?id=1FifRlomKLDadBXOgOxrlN_eurzGGI6NF)
-
-
-Author: ZD
