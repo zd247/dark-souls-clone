@@ -11,4 +11,4 @@
 ### [Download full game here](https://drive.google.com/open?id=1P_eaV7EWGv8VVPE_yr5Lg29kNWGhKpJB):
 ### [Personal notes](https://drive.google.com/open?id=1FifRlomKLDadBXOgOxrlN_eurzGGI6NF)
 
-### Special thanks to Dr. Edward Eduardo for hooking me up with a spot in that science fair, otherwise, this project would have never been completed.
+### Special thanks to Dr. Edward Eduardo (taught the course BITS in 2018 in RMIT SGS) for hooking me up with a spot in that science fair, otherwise, this project would have never been completed.
